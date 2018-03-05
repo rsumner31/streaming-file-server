@@ -20,3 +20,5 @@ docker-modules/all/application-modules/
 *file-storage/
 !*.gitkeep
 /images/*
+/images/*
+/images/*

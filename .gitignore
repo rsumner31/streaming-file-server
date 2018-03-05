@@ -19,3 +19,4 @@ docker-modules/all/application-modules/
 *.project
 *file-storage/
 !*.gitkeep
+/images/*
